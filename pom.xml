@@ -69,7 +69,7 @@
 		<geoip2.version>4.2.1</geoip2.version>
 		<drools.version>7.32.0.Final</drools.version>
 		<google-client-maps-services-version>2.2.0</google-client-maps-services-version>
-		<jwt.version>0.8.0</jwt.version>
+		<jwt.version>0.12.6</jwt.version>
 
 
 		<!-- api documentation -->
